@@ -1,0 +1,12 @@
+.label middleraster=$c07a
+.label irq=$c038
+.label fillscrnlp=$c04b
+.label loop=$c035
+.label fillcolour=$c060
+.label fillscreen=$c047
+.label main=$c000
+.label rast3=$c074
+.label rast2=$c08c
+.label rast1=$c07c
+.label bottomraster=$c08a
+.label topraster=$c072
